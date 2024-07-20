@@ -1,6 +1,6 @@
-Fulano; pessoa1@gmail.com; 30
-Ciclano; pessoa2@gmail.com; 27
-Beltrano; pessoa3@gmail.com; 40
+Fulano| pessoa1@gmail.com| 30
+Ciclano| pessoa2@gmail.com| 27
+Beltrano| pessoa3@gmail.com| 40
 
 
-Orlando; pessoa4@gmail.com; 13
+Orlando| pessoa4@gmail.com| 13
